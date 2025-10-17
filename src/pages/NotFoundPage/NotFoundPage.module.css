@@ -1,0 +1,1 @@
+.container { composes: container from '../../index.css'; text-align: center; }

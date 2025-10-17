@@ -1,0 +1,1 @@
+.input { composes: input from '../../index.css'; max-width: 420px; }
