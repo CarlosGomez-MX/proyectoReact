@@ -1,4 +1,4 @@
-# To-Do App (React + TypeScript)
+# App tareas (React)
 
 Aplicación de gestión de tareas con React, Context API, React Router, CSS Modules y persistencia en localStorage.
 
@@ -7,8 +7,8 @@ Aplicación de gestión de tareas con React, Context API, React Router, CSS Modu
 
 ## Cómo iniciar (opción recomendada: usar Create React App)
 ```bash
-npx create-react-app todo-app --template typescript
-cd todo-app
+npx create-react-app tareas_seminario --template typescript
+cd tareas_seminario
 npm install react-router-dom @testing-library/react @testing-library/jest-dom @testing-library/user-event
 npm start
 ```
